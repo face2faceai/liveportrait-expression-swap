@@ -2,7 +2,7 @@
 
 Transfer facial expressions between photos using [LivePortrait](https://github.com/KwaiVGI/LivePortrait). Copy a smile, a laugh, a surprised look — any expression from one face onto another, while preserving the target person's identity.
 
-**[▶ Open in Google Colab]([https://colab.research.google.com/github/face2faceai/liveportrait-expression-swap/blob/main/liveportrait_expression_swap_colab.ipynb])**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/face2faceai/liveportrait-expression-swap/blob/main/liveportrait_expression_swap_colab.ipynb)    
 
 ---
 
