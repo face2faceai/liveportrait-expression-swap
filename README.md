@@ -4,6 +4,12 @@ Transfer facial expressions between photos using [LivePortrait](https://github.c
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/face2faceai/liveportrait-expression-swap/blob/main/liveportrait_expression_swap_colab.ipynb)    
 
+**Now on Android — the full app is live on Google Play:**
+
+<a href="https://play.google.com/store/apps/details?id=com.face2face.ai">
+  <img alt="Get it on Google Play" height="50" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png">
+</a>
+
 ---
 
 ## What It Does
@@ -95,9 +101,9 @@ The app goes significantly beyond what this notebook offers, with advanced face 
 
 **[face2faceai.com](https://face2faceai.com)**
 
-<!-- Uncomment when live:
-[**Download on Google Play**](PLAY_STORE_LINK_HERE)
--->
+<a href="https://play.google.com/store/apps/details?id=com.face2face.ai">
+  <img alt="Get it on Google Play" height="50" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png">
+</a>
 
 ---
 
